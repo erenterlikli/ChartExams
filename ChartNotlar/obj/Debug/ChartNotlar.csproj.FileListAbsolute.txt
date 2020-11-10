@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\ChartNotlar\ChartNotlar\bin\Debug\ChartNotlar.exe.config
+C:\Users\Eren\source\repos\ChartNotlar\ChartNotlar\bin\Debug\ChartNotlar.exe
+C:\Users\Eren\source\repos\ChartNotlar\ChartNotlar\bin\Debug\ChartNotlar.pdb
+C:\Users\Eren\source\repos\ChartNotlar\ChartNotlar\obj\Debug\ChartNotlar.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\ChartNotlar\ChartNotlar\obj\Debug\ChartNotlar.Form1.resources
+C:\Users\Eren\source\repos\ChartNotlar\ChartNotlar\obj\Debug\ChartNotlar.Properties.Resources.resources
+C:\Users\Eren\source\repos\ChartNotlar\ChartNotlar\obj\Debug\ChartNotlar.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\ChartNotlar\ChartNotlar\obj\Debug\ChartNotlar.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\ChartNotlar\ChartNotlar\obj\Debug\ChartNotlar.exe
+C:\Users\Eren\source\repos\ChartNotlar\ChartNotlar\obj\Debug\ChartNotlar.pdb
